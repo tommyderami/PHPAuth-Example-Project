@@ -1,0 +1,8 @@
+{
+    "name": "phpauth/phpauth-example",
+    "description": "Example implementation of the popular phpauth library",
+    "type": "project",
+    "require": {
+        "phpauth/phpauth": "^1.1"
+    }
+}
